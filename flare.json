@@ -1,0 +1,323 @@
+{
+ "name": "flare",
+ "children": [
+     {
+         "name": "Early Cultures",
+         "children": [
+             {
+                 "name": "Jomon",
+                 "children": [
+                     {"name": "Cord-Making", "size": 100},
+                     {"name": "Hunter/Gatherer", "size": 100},
+                     {"name": "Pottery", "size": 100}
+                 ]
+             },
+             {
+                 "name": "Yayoi",
+                 "children": [
+                     {"name": "Bronze", "size": 100},
+                     {"name": "Iron", "size": 100},
+                     {"name": "Thatched Roof", "size": 250},
+                     {"name": "Unglazed Pottery", "size": 250}
+                 ]
+             },
+             {
+                 "name": "Kofun",
+                 "children": [
+                     {"name": "Haniwa Figures", "size": 200},
+                     {"name": "Keyhole Tombs", "size": 250},
+                     {"name": "Pottery Wheel", "size": 100}
+                 ]
+             }
+         ]
+     },
+     {
+         "name": "Traditional Architecture",
+         "children": [
+             {
+                 "name": "Castles",
+                 "children": [
+                     {
+                         "name": "Prominent Elements",
+                         "children": [
+                             {"name": "3-5 Stories High", "size": 200},
+                             {"name": "Intricate Roofs", "size": 500},
+                             {"name": "Stone Foundation", "size": 200}
+                         ]
+
+                     },
+                     {
+                         "name": "Political Implications",
+                         "children": [
+                             {"name": "Fortress", "size": 200},
+                             {"name": "Luxury Home", "size": 350}
+                         ]
+
+                     },
+                     {
+                         "name": "Specific Castles",
+                         "children": [
+                             {"name": "Himeji Castle", "size": 250},
+                             {"name": "Matsumoto Castle", "size": 250},
+                             {"name": "Osaka Castle", "size": 250},
+                             {"name": "Edo Castle", "size": 250}
+                         ]
+
+                     }
+                 ]
+             },
+             {
+                 "name": "Buddhist Temples",
+                 "children": [
+                     {"name": "Symmetrical", "size": 150},
+                     {"name": "Minimalist", "size": 150},
+                     {"name": "Near Water", "size": 250},
+                     {"name": "Separation from Reality", "size": 250}
+                 ]
+             },
+             {
+                 "name": "Domestic Architecture",
+                 "children": [
+                     {"name": "Wood", "size": 200},
+                     {"name": "Plaster", "size": 200},
+                     {"name": "Woven Straw", "size": 200},
+                     {"name": "Rice Paper", "size": 200},
+                     {"name": "Pit Dwellings", "size": 500},
+                     {"name": "Earth Floors", "size": 500}
+                 ]
+             }
+         ]
+     },
+
+     {
+         "name": "Sculpture",
+         "children": [
+             {
+                 "name": "Protection Figurines",
+                 "children": [
+                     {"name": "Nio", "size": 250},
+                     {"name": "Shukongoshin", "size": 200},
+                     {"name": "Agyo", "size": 100},
+                     {"name": "Ungyo", "size": 100},
+                     {"name": "Shinto Shrine", "size": 250}
+                 ]
+             },
+             {
+                 "name": "Buddhist Sculptures",
+                 "children": [
+                     {"name": "Nara School", "size": 500},
+                     {"name": "Communal Funding", "size": 500},
+                     {
+                         "name": "Different Poses",
+                         "children": [
+                             {"name": "Protection", "size": 100},
+                             {"name": "Meditation", "size": 100},
+                             {"name": "Nirvana", "size": 100},
+                             {"name": "Medicine", "size": 100},
+                             {"name": "Walking", "size": 100}
+                         ]
+                     }
+                 ]
+             }
+         ]
+     },
+
+     {
+         "name": "Painting",
+         "children": [
+             {
+                 "name": "Ghost Paintings",
+                 "children": [
+                     {"name": "Jikiniki", "size": 500},
+                     {"name": "Lower Class", "size": 250},
+                     {"name": "Yokai", "size": 500},
+                     {"name": "Clean Lines", "size": 200}
+                 ]
+             },
+             {
+                 "name": "Landscapes",
+                 "children": [
+                     {"name": "Abstract", "size": 500},
+                     {"name": "Capture Mood", "size": 500},
+                     {"name": "Mori Sosen (artist)", "size": 250},
+                     {"name": "Sumi-E (style)", "size": 250},
+                     {
+                         "name": "Plants Represent Seasons",
+                         "children": [
+                             {"name": "Bamboo (Summer)", "size": 100},
+                             {"name": "Chrysanthemum (Fall)", "size": 100},
+                             {"name": "Plum (Winter)", "size": 100},
+                             {"name": "Orchid (Spring)", "size": 100}
+                         ]
+                     }
+                 ]
+             }
+         ]
+     },
+
+     {
+         "name": "Woodprints",
+         "children": [
+             {
+                 "name": "Methods",
+                 "children": [
+                     {"name": "Kiri, Gin, Akegane", "size": 250},
+                     {"name": "Bokashi", "size": 200},
+                     {"name": "Bfuki-Bokashi", "size": 150},
+                     {"name": "Kara-Zubi", "size": 150},
+                     {"name": "Ysuya-Zuri", "size": 200}
+                 ]
+             },
+             {
+                 "name": "Materials",
+                 "children": [
+                     {"name": "Cherry Wood", "size": 150},
+                     {"name": "Chisel", "size": 150},
+                     {"name": "Mulberry Tree Bark", "size": 150}
+                 ]
+             },
+             {
+                 "name": "Themes",
+                 "children": [
+                     {"name": "Bijinga", "size": 100},
+                     {"name": "Yakushae", "size": 100},
+                     {"name": "Caricature", "size": 250},
+                     {"name": "Tobae", "size": 100},
+                     {"name": "Comics", "size": 250},
+                     {"name": "Shunga", "size": 100},
+                     {"name": "Meishoe", "size": 100},
+                     {"name": "Mushae", "size": 100},
+                     {"name": "Rekishiga", "size": 250},
+                     {"name": "Omachae", "size": 100},
+                     {"name": "Mitate-e", "size": 100},
+                     {"name": "Sumo", "size": 250}
+                 ]
+             }
+         ]
+     },
+
+     {
+         "name": "Hokusai/Hiroshige",
+         "children": [
+             {
+                 "name": "Hiroshige",
+                 "children": [
+                     {"name": "Essence of Japan", "size": 250},
+                     {"name": "White Space Utilization", "size": 200},
+                     {
+                         "name": "Themes",
+                         "children": [
+                             {"name": "Weather", "size": 200},
+                             {"name": "Mist", "size": 100},
+                             {"name": "Rain", "size": 100}
+                         ]
+                     },
+                     {
+                         "name": "Artworks",
+                         "children": [
+                             {"name": "Hundred Famous Views", "size": 200},
+                             {"name": "53 Stations of Tokaido", "size": 100},
+                             {"name": "Plum Park in Kameido", "size": 100},
+                             {"name": "Two Mandarin Ducks", "size": 100}
+                         ]
+                     }
+                 ]
+             },
+             {
+                 "name": "Hokusai",
+                 "children": [
+                     {"name": "Thirty-Six Views of Mt. Fuji ", "size": 150},
+                     {"name": "Nature and Landscapes", "size": 300},
+                     {"name": "Use of Gray", "size": 150}
+                 ]
+             }
+         ]
+     },
+
+     {
+         "name": "Modern Architecture",
+         "children": [
+             {
+                 "name": "Buildings",
+                 "children": [
+                     {"name": "Tokyo Olympic Stadium", "size": 500},
+                     {"name": "Polyhedral Pavilion", "size": 300},
+                     {"name": "House N", "size": 150}
+                 ]
+             },
+             {
+                 "name": "Architects",
+                 "children": [
+                     {"name": "Shigeru Bun", "size": 500},
+                     {"name": "Sou Fujimoto", "size": 200},
+                     {"name": "Kenzo Tang", "size": 350},
+                     {"name": "Isozaki Arata", "size": 100},
+                     {"name": "Fumihiko Maki", "size": 100},
+                     {"name": "Kengo Kuma", "size": 500}
+                 ]
+             },
+             {
+                 "name": "Materials",
+                 "children": [
+                     {"name": "Wood", "size": 150},
+                     {"name": "Concrete", "size": 150},
+                     {"name": "Glass", "size": 150}
+                 ]
+             }
+         ]
+     },
+
+     {
+         "name": "Modern Art",
+         "children": [
+             {
+                 "name": "Yayoi Kusama",
+                 "children": [
+                     {"name": "Polka Dots", "size": 500},
+                     {"name": "Fashion Collaboration", "size": 300},
+                     {"name": "Satirical", "size": 150},
+                     {"name": "Infinity Rooms", "size": 150}
+                 ]
+             },
+             {
+                 "name": "Photographers",
+                 "children": [
+                     {"name": "Shigeru Bun", "size": 500},
+                     {"name": "Sou Fujimoto", "size": 200},
+                     {"name": "Kenzo Tang", "size": 350},
+                     {"name": "Isozaki Arata", "size": 100},
+                     {"name": "Fumihiko Maki", "size": 100},
+                     {"name": "Kengo Kuma", "size": 500}
+                 ]
+             },
+             {
+                 "name": "Tattoos",
+                 "children": [
+                     {
+                         "name": "Common Tattoos",
+                         "children": [
+                             {"name": "Koi Fish", "size": 150},
+                             {"name": "Dragon", "size": 150},
+                             {"name": "Phoenix", "size": 150},
+                             {"name": "Snake", "size": 150},
+                             {"name": "Samurai", "size": 150}
+                         ]
+                     },
+                     {
+                         "name": "Artist Inspirations",
+                         "children": [
+                             {"name": "Yayoi Kusama", "size": 150},
+                             {"name": "Audrey Kawasaki", "size": 150},
+                             {"name": "Glass", "size": 150}
+                         ]
+                     }
+                 ]
+             }
+         ]
+     }
+
+
+
+
+    ]
+}
